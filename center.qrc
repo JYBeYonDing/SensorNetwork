@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/center">
+        <file>image/cen.png</file>
+    </qresource>
+</RCC>
